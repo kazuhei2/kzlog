@@ -1,4 +1,4 @@
-# nuxt-test
+# Kazuhei Blog
 
 ## Build Setup
 
