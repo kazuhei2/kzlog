@@ -77,6 +77,11 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
+          title: 'Hair Salon',
+          to: '/HairSalon',
+        },
+        {
+          icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire',
         },
